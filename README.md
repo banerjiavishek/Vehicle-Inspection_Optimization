@@ -10,7 +10,7 @@ The work presented solves the problem of vehicle testing schedules using <b> Law
 -  Set the value of k (k= number of unscheduled jobs/ numbers of available spaces)
 - Calculate the value of τ
 
-<p align="center"> <img  alt="equation"  src="assets/Equation.jpg"  width="75%" /></p>
+<p align="center"> <img  alt="equation"  src="Assets/Equation.jpg"  width="10%" /></p>
 
 - Create a pool of jobs, having no followers/successors
 - Create a cost/penalty/tardiness pool
@@ -62,11 +62,12 @@ Developed a case study to optimise the schedule of the vehicle testing using Law
 <th> 35 </th>
 <th> 37 </th>
 </tr>
+  </table>
 
 Solving the above 10/1/Tmax and find the optimal schedule.
 
 ## Network Diagram
-<p align="center"> <img  alt="network_Diagram"  src="assets/Network_Diagram.png"  width="75%" /></p>
+<p align="center"> <img  alt="network_Diagram"  src="Assets/Network_Diagram.png"  width="75%" /></p>
 
 ## Conclusion
 
